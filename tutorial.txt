@@ -9,7 +9,7 @@ git remote add origin <url>
 git add <filename>
 git commit -m "your desired message"
 git pull origin master
-git pus origin mater
+git push origin mater
 
 // cloning repo
 git clone <repo-url>
