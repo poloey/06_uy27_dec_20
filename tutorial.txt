@@ -1,0 +1,12 @@
+//first time in your pc
+git config --global user.name 'your name '
+git config --global user.email 'name@gmail.com'
+//first time in your project
+git init 
+git remote add origin <url>
+
+// command 
+git add <filename>
+git commit -m "your desired message"
+git pull origin master
+git pus origin mater
